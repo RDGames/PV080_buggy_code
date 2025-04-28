@@ -1,2 +1,3 @@
 # PV080_buggy_code
-school project
+
+Readme from GitLab
